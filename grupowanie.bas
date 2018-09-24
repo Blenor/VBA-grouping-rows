@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module21"
 Option Explicit
 Sub Grupowanie()
     Dim bBreak As Boolean
